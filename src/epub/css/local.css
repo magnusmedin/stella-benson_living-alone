@@ -57,3 +57,8 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 /* End full-page epigraphs */
+
+section[epub|type~="acknowledgments"],
+section[epub|type~="preface"]{
+	margin-top: 20vh;
+}
