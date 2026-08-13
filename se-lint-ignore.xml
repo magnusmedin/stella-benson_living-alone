@@ -3,7 +3,7 @@
 	<file path="chapter-4.xhtml">
 		<ignore code="t-064">
 			<line>37</line>
-			<line>59</line>
+			<line>61</line>
 			<reason>The "i" in "Cloud-i'-the-Sun" isn't capitalized, as it is likely an elision of the word "in".</reason>
 		</ignore>
 	</file>
